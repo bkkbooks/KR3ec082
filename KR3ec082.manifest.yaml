@@ -1,0 +1,206 @@
+canonical_identifier: bkk:krp/KR3ec082/v1
+canonical_location: https://kanripo.org/bkk/KR3ec082/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 犀黃之研究
+  identifiers:
+    krp: KR3ec082
+  tags:
+    kr-categories: KR3ec
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec082.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ec082_000.yaml, hash: 'sha256:36971788c25e557a75f65f85f0fb0f52d8927d08471c21e60880dfbac95b3a13'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ec082_000.markers.yaml, hash: 'sha256:667a788b4524bdcc13e1a738583cc89f6013eed8f5f0e44af9dde06d0d111ad6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 203
+  label: 第一章緒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d3.h1s1
+    span:
+    - body
+    - 203
+    - 2402
+  label: 第二章牛黃之名義及異同
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d3d2
+    span:
+    - body
+    - 214
+    - 388
+  label: 一牛黃之定義
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d3d3
+    span:
+    - body
+    - 388
+    - 599
+  label: 二牛黃之異名及其他
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d3d4
+    span:
+    - body
+    - 599
+    - 2153
+  label: 三牛黃之種類及其分類法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d3d5
+    span:
+    - body
+    - 2153
+    - 2402
+  label: 四真假及其鑑別法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d4.h1s1
+    span:
+    - body
+    - 2402
+    - 5692
+  label: 第三章在中國之牛黃藥用史
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d4d6
+    span:
+    - body
+    - 2526
+    - 2903
+  label: 一牛黃之藥性
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d4d7
+    span:
+    - body
+    - 2903
+    - 3072
+  label: 二牛黃之用法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d4d8
+    span:
+    - body
+    - 3072
+    - 4713
+  label: 三牛黃之應用
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d4d9
+    span:
+    - body
+    - 4713
+    - 5193
+  label: 四牛黃之藥理見解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d4d10
+    span:
+    - body
+    - 5193
+    - 5692
+  label: 總括
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d5.h1s1
+    span:
+    - body
+    - 5692
+    - 8638
+  label: 第四章日本之牛黃藥用史
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d5d4
+    span:
+    - body
+    - 6364
+    - 6572
+  label: 一牛黃之藥性
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d5d5
+    span:
+    - body
+    - 6572
+    - 6684
+  label: 二牛黃之用法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d5d6
+    span:
+    - body
+    - 6684
+    - 8101
+  label: 三牛黃之應用
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d5d7
+    span:
+    - body
+    - 8101
+    - 8340
+  label: 四牛黃之藥理見解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ec082_jc_000-d5d8
+    span:
+    - body
+    - 8340
+    - 8638
+  label: 總括
+  type: section
+  level: 2
+hash: sha256:fdc3e7778113e5d895b280d21ec543cb358bf4261c4fc01c9f3cd77599a75593
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
